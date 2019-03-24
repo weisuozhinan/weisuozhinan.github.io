@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #86adff;
+  background: #9dff60;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2996,16 +2996,16 @@ pre .javascript .function {
     background-image: url("/images/shixiang4.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: 50% 50%;
+    background-position: 50% 0%;
   }
   #footer a {
     color: #eee;
   }
 }
 .main-inner {
-  margin-top: 800px;
-  padding: 60px 60px 60px 60px;
+  margin-top: 60px;
+  padding: 20px 20px 20px 20px;
   background: #fff;
   opacity: 0.7;
-  min-height: 1000px;
+  min-height: 500px;
 }
