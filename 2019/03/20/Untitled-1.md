@@ -10,4 +10,4 @@
 <label><imput type="semb">
 <br><br><br><br>
 + 通过w3cschool学习html
-+ python&nbsp;没看，这周我抽个半天出来看，虚拟机安装到一半 
++ python&nbsp;没看，下周我抽个半天出来看，虚拟机安装到一半 
